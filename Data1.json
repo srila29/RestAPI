@@ -1,0 +1,10 @@
+{
+    "name": "PostmanDemo",
+    "description": "Test Repo",
+    "homepage": "https://github.com/",
+    "private": false,
+    "has_issues": true,
+    "has_projects": true,
+    "has_wiki":true
+}
+
